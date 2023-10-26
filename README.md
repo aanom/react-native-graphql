@@ -23,4 +23,3 @@ These features are absolutely not required, however if you finish your project e
 
 
 
-# graphql-demo
